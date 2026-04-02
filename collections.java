@@ -81,11 +81,11 @@ ArrayDeque <Integer> arrde = new ArrayDeque<>();
         s.add(42);
         System.out.println(s);
 
-        Set<Integer> s1 = new TreeSet<>();
-        s1.add(1);
-        s1.add(323);   
-        s1.add(3242);
-        s1.add(42);
-        System.out.println(s1);
+        Set<Integer> s12 = new TreeSet<>();
+        s12.add(1);
+        s12.add(323);   
+        s12.add(3242);
+        s12.add(42);
+        System.out.println(s12);
     }
 }
